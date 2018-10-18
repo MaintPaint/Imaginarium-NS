@@ -1,7 +1,7 @@
 Version:beta0.0.1a#
-ZIP_Directory:#
-Background:#
-Logo_Game:#
-Logo_Company:#
-News_1:#
-News_2:#
+ZIP_Directory:=#
+Background:=https://raw.githubusercontent.com/MaintPaint/ImaginariumNS/master/Launcher_Background.png#
+Logo_Game:=https://raw.githubusercontent.com/MaintPaint/ImaginariumNS/master/Logotip_Png.png#
+Logo_Company:=https://raw.githubusercontent.com/MaintPaint/ImaginariumNS/master/Logo_Compony.png#
+News_1:=https://raw.githubusercontent.com/MaintPaint/ImaginariumNS/master/News1.png#
+News_2:=https://raw.githubusercontent.com/MaintPaint/ImaginariumNS/master/News2.png#
