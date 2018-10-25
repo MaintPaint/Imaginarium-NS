@@ -1,7 +1,11 @@
-Version:=0.0.1|beta0.0.1a|beta0.0.1a#
+Version:=beta0.0.1a#
 ZIP_Directory:=none#
 Background:=https://raw.githubusercontent.com/MaintPaint/ImaginariumNS/master/Launcher_Background.png#
 Logo_Game:=https://raw.githubusercontent.com/MaintPaint/ImaginariumNS/master/Logotip_Png.png#
 Logo_Company:=https://raw.githubusercontent.com/MaintPaint/ImaginariumNS/master/Logo_Compony.png#
 News_1:=https://raw.githubusercontent.com/MaintPaint/ImaginariumNS/master/News1.png#
+News_Logo_1:=Type#
+News_Text_1:=Text small about update#
 News_2:=https://raw.githubusercontent.com/MaintPaint/ImaginariumNS/master/News2.png#
+News_Logo_2:=Update 2#
+News_Text_2:=Text for 2 update#
